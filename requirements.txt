@@ -4,7 +4,7 @@ opencv-python-headless
 scipy
 numpy
 gTTs
-GoogleTranslator
+deep-translator
 Pillow
 scikit-image
 python-bidi
