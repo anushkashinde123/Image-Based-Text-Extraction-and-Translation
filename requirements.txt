@@ -3,6 +3,7 @@ torchvision>=0.5
 opencv-python-headless
 scipy
 numpy
+gTTs
 Pillow
 scikit-image
 python-bidi
